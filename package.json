@@ -1,0 +1,32 @@
+{
+  "name": "playnode_rest",
+  "version": "1.0.0",
+  "description": "Restful Service for setting up menu items' price and availability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"TBD\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weipingluo/playnode_rest.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "menuitem"
+  ],
+  "author": "Weiping Luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weipingluo/playnode_rest/issues"
+  },
+  "homepage": "https://github.com/weipingluo/playnode_rest#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.10"
+  }
+}

@@ -1,2 +1,2 @@
 # playnode_rest
-Build a restful service with Node
+Build a restful service with Node.js
